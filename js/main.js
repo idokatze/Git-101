@@ -13,3 +13,5 @@ function onBallClick(elBall) {
         elBall.innerText = newSize
     }
 }
+
+// Test
