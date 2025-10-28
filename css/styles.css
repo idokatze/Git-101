@@ -8,9 +8,15 @@ body {
 }
 
 .ball {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
     height: 100px;
     width: 100px;
     border-radius: 50%;
     background-color: teal;
     margin: auto;
+    font-size: 22px;
+    font-weight: bold;
 }
